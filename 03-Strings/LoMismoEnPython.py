@@ -24,7 +24,7 @@ producto_con_espacio = "     1      Monitor    2    "
 print(producto_con_espacio)
 print(producto_con_espacio.strip())
 
-# DERECHA O HIZQUIERA ALADIENDO L O R
+# DERECHA O IZQUIERA AÑADIENDO L O R
 print(producto_con_espacio.rstrip())
 print(producto_con_espacio.lstrip())
 
